@@ -1,4 +1,4 @@
-# Mercusys MA530 Bluetooth — Linux Kernel 6.17+ Fix
+# Mercusys MA530 Bluetooth — Linux Kernel 6.17+ Fix 
 
 **Sorun:** Mercusys MA530 (USB ID: `2c4e:0115`) Bluetooth adaptörü Linux'ta tanınıyor ancak cihaz taraması çalışmıyor.
 
